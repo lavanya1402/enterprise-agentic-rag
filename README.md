@@ -63,24 +63,6 @@ The system is designed for real-world enterprise usage where:
 
 ---
 
-### Screenshot 3 – Hybrid Retrieval (FAISS + BM25)
-
-<img width="900" src="https://github.com/user-attachments/assets/2b56d476-bdfd-4c68-99e8-6a29768edc24" />
-
----
-
-### Screenshot 4 – Self-RAG Validation / Safe Fallback
-
-<img width="900" src="https://github.com/user-attachments/assets/2b56d476-bdfd-4c68-99e8-6a29768edc24" />
-
----
-
-### Screenshot 5 – Multi-Document Resolution
-
-<img width="900" src="https://github.com/user-attachments/assets/2b56d476-bdfd-4c68-99e8-6a29768edc24" />
-
----
-
 ## Why This System Is Enterprise-Relevant
 
 - Hybrid retrieval ensures **precision + recall**
