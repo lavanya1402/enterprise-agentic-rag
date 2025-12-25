@@ -51,7 +51,8 @@ The system is designed for real-world enterprise usage where:
 
 ### Screenshot 1 – Question Answer with Citations
 
-<img width="900" src="https://github.com/user-attachments/assets/ac1e941c-bfeb-45fc-a96f-93e269545f10" />
+<img width="655" height="330" alt="image" src="https://github.com/user-attachments/assets/f20353c5-3b82-40d8-9afd-3d847b29271f" />
+/>
 
 ---
 
