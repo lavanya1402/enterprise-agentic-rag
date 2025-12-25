@@ -58,7 +58,8 @@ The system is designed for real-world enterprise usage where:
 
 ### Screenshot 2 – Retrieved Context & Source Chunks
 
-<img width="900" src="https://github.com/user-attachments/assets/b3f2f352-45ff-4996-8860-2698c3398337" />
+<img width="661" height="334" alt="image" src="https://github.com/user-attachments/assets/9cde6810-b343-461b-89cc-aed4ea549bf1" />
+
 
 ---
 
