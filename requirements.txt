@@ -13,9 +13,4 @@ faiss-cpu
 sentence-transformers
 
 openai
-
-pytesseract
 pillow
-
-pytest
-ruff
