@@ -56,31 +56,31 @@ The system is designed for real-world enterprise usage where:
 
 ### Screenshot 1 – Question Answer with Citations
 
-[![Upload Screenshot – Q\&A](screenshots/answer_with_citations.png)](screenshots/answer_with_citations.png)
+<img width="939" height="503" alt="image" src="https://github.com/user-attachments/assets/ac1e941c-bfeb-45fc-a96f-93e269545f10" />
 
 ---
 
 ### Screenshot 2 – Retrieved Context & Source Chunks
 
-[![Upload Screenshot – Retrieved Context](screenshots/retrieved_context.png)](screenshots/retrieved_context.png)
+<img width="939" height="503" alt="image" src="https://github.com/user-attachments/assets/b3f2f352-45ff-4996-8860-2698c3398337" />
 
 ---
 
 ### Screenshot 3 – Hybrid Retrieval (FAISS + BM25)
 
-[![Upload Screenshot – Hybrid Retrieval](screenshots/hybrid_retrieval.png)](screenshots/hybrid_retrieval.png)
+<img width="939" height="503" alt="image" src="https://github.com/user-attachments/assets/2b56d476-bdfd-4c68-99e8-6a29768edc24" />
 
 ---
 
 ### Screenshot 4 – Self-RAG Validation / Fallback
 
-[![Upload Screenshot – Self RAG](screenshots/self_rag_fallback.png)](screenshots/self_rag_fallback.png)
+<img width="939" height="503" alt="image" src="https://github.com/user-attachments/assets/2b56d476-bdfd-4c68-99e8-6a29768edc24" />
 
 ---
 
 ### Screenshot 5 – Multi-Document Resolution
 
-[![Upload Screenshot – Multi Document](screenshots/multi_document_answer.png)](screenshots/multi_document_answer.png)
+<img width="939" height="503" alt="image" src="https://github.com/user-attachments/assets/2b56d476-bdfd-4c68-99e8-6a29768edc24" />
 
 ---
 
